@@ -246,3 +246,4 @@ These are some of the technologies and tools that I work with:
   
 
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=joaovmiranda&color=ff69b4&style=flat-square&label=VIEWS" alt="joaovmiranda" /> </p>
